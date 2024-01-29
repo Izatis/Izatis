@@ -1,24 +1,23 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Izat
-===
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Izat
 
-React Front-end Developer
-===
+# React Front-end Developer
 
 ---
 
 ### :man_technologist: About me:
+
 I am a passionate developer and technology enthusiast, dedicated to creating innovative solutions<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My code is my way of contributing to the world of technology and making it better. I constantly strive to expand my knowledge and skills. In my repository, you will find projects related to web development, automation, and more. Sharing my experience and discovering best practices in the programming world is important to me. If you have any questions, suggestions, or would like to discuss potential collaboration, feel free to contact me! I look forward to your visit and collaborative projects. Let's create something great together!
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-* 🌍  I'm based in Bishkek
-* 🧠  I'm learning NodeJs, React Native
-* 🤝  I'm open to collaborating on all project
-* ⚡  I'm very hard-working.
-* :seedling:  Completed web development courses at the It academy!
-* :mailbox:  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/isuu000) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:imekinov1@gmail.com)
+- 🌍 I'm based in Bishkek
+- 🧠 I'm learning NodeJs, React Native
+- 🤝 I'm open to collaborating on all project
+- ⚡ I'm very hard-working.
+- :seedling: Completed web development courses at the It academy!
+- :mailbox: You can contact me at [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/isuu000) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:imekinov1@gmail.com)
 
 ---
 
@@ -29,6 +28,7 @@ I am a passionate developer and technology enthusiast, dedicated to creating inn
 ---
 
 ### Skills
+
 ### 💻 Technologies:
 
 <p align="left">
@@ -36,10 +36,10 @@ I am a passionate developer and technology enthusiast, dedicated to creating inn
 </p>
 
 ### 🛠 Инструменты:
+
 <p align="left">
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://filebase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="36" height="36" alt="Filebase" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 </p>
-
 
 ### 💻 Codewars:
 
