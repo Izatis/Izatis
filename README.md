@@ -17,7 +17,8 @@ I am a passionate developer and technology enthusiast, dedicated to creating inn
 * 🧠  I'm learning NodeJs, React Native
 * 🤝  I'm open to collaborating on all project
 * ⚡  I'm very hard-working.
-  - :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
+- :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
+- dfas
 * ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/isuu000) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:imekinov1@gmail.com)
 
 ---
