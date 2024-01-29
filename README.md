@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 React Front-end Developer
 ===
 
+---
+
 ### :man_technologist: About me:
 I am a passionate developer and technology enthusiast, dedicated to creating innovative solutions<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My code is my way of contributing to the world of technology and making it better. I constantly strive to expand my knowledge and skills. In my repository, you will find projects related to web development, automation, and more. Sharing my experience and discovering best practices in the programming world is important to me. If you have any questions, suggestions, or would like to discuss potential collaboration, feel free to contact me! I look forward to your visit and collaborative projects. Let's create something great together!
 
