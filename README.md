@@ -1,7 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Izat
 ===
+
 React Front-end Developer
 ===
+
 ### :man_technologist: About me:
 I am a passionate developer and technology enthusiast, dedicated to creating innovative solutions<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My code is my way of contributing to the world of technology and making it better. I constantly strive to expand my knowledge and skills. In my repository, you will find projects related to web development, automation, and more. Sharing my experience and discovering best practices in the programming world is important to me. If you have any questions, suggestions, or would like to discuss potential collaboration, feel free to contact me! I look forward to your visit and collaborative projects. Let's create something great together!
 
@@ -14,9 +16,6 @@ I am a passionate developer and technology enthusiast, dedicated to creating inn
 * 🧠  I'm learning NodeJs, React Native
 * 🤝  I'm open to collaborating on all project
 * ⚡  I'm very hard-working.
-
-<a href="https://www.github.com/Izatis" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Izatis?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a>
 
 ---
 
@@ -126,9 +125,15 @@ src="https://img.shields.io/github/followers/Izatis?logo=github&style=for-the-ba
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/izatis"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
+<li style="display: inline-block; margin-right: 0.25rem;">
+ <a href="https://www.buymeacoffee.com/izatis">
+ <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
+</a>
+</li>
 </ul>
+
+<a href="https://www.github.com/Izatis" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/Izatis?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" />
+</a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey)
