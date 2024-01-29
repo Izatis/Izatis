@@ -61,6 +61,8 @@ I am a passionate developer and technology enthusiast, dedicated to creating inn
 
 ### Support Me
 
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
+
 <ul style="list-style-type: none; margin: 0;">
 <li style="display: inline-block; margin-right: 0.25rem;">
  <a href="https://www.buymeacoffee.com/izatis">
