@@ -25,26 +25,26 @@ I am a passionate developer and technology enthusiast, dedicated to creating inn
 
 <p align="left">
 <a href="https://www.codepen.io/Izatis" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> <a href="https://codesandbox.io/u/Izat" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /> </picture> </a> 
- 
  <a href="https://discord.com/users/izatis" target="_blank" rel="noreferrer"> 
+    <img src="./assets/discord.png" width="40" height="40" alt="discord" />
  </a>
- 
  <a href="https://www.facebook.com/profile.php?id=61551924365529" target="_blank" rel="noreferrer"> 
+    <img src="./assets/facebook.png" width="40" height="40" alt="facebook" />
  </a> 
- 
  <a href="https://www.github.com/Izatis" target="_blank" rel="noreferrer">
+    <img src="./assets/github.png" width="40" height="40" alt="github" />
  </a> 
- 
  <a href="http://www.instagram.com/azimut_80" target="_blank" rel="noreferrer"> 
+    <img src="./assets/instagram.png" width="40" height="40" alt="instagram" />
  </a> 
- 
  <a href="https://www.linkedin.com/in/izat-mekinov-281134264" target="_blank" rel="noreferrer">
+    <img src="./assets/linkedin.png" width="40" height="40" alt="linkedin" />
  </a> 
- 
  <a href="https://www.stackoverflow.com/users/21365398/izat-mekinov" target="_blank" rel="noreferrer">
+    <img src="./assets/stackoverflow.png" width="40" height="40" alt="stackoverflow" />
  </a> 
- 
  <a href="https://www.threads.net/@azimut_80" target="_blank" rel="noreferrer">
+    <img src="./assets/threads.png" width="40" height="40" alt="threads" />
  </a>
  </p>
 
