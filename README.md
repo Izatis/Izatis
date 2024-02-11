@@ -57,13 +57,9 @@ I am a passionate developer and technology enthusiast, dedicated to creating inn
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
 
-<ul style="list-style-type: none; margin: 0;">
-<li style="display: inline-block; margin-right: 0.25rem;">
  <a href="https://www.buymeacoffee.com/izatis">
  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
 </a>
-</li>
-</ul>
 
 <a href="https://www.github.com/Izatis" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/Izatis?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" />
