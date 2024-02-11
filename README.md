@@ -13,10 +13,10 @@ I am a passionate developer and technology enthusiast, dedicated to creating inn
 </p>
 
 - 🌎 I'm based in Bishkek.
-- 🧠 I'm learning NodeJs, React Native.
+- 🧠 I'm learning Node.js, React Native.
 - 🤝 I'm open to collaborating on all project.
 - ⚡ I'm very hard-working.
-- 🌱 Completed web development courses at the It academy!
+- 🌱 Completed web development courses at the It Academy!
 - 📪 You can contact me at [![Telegram Badge](https://img.shields.io/badge/-isuu000-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/isuu000) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:imekinov1@gmail.com).
 
 ---
