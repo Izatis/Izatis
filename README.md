@@ -6,7 +6,7 @@
 
 ### ☘️ About me:
 
-I am a passionate developer and technology enthusiast, dedicated to creating innovative solutions. My code is my way of contributing to the world of technology and making it better. I constantly strive to expand my knowledge and skills. In my repository, you will find projects related to web development, automation, and more. Sharing my experience and discovering best practices in the programming world is important to me. If you have any questions, suggestions, or would like to discuss potential collaboration, feel free to contact me! I look forward to your visit and collaborative projects. Let's create something great together!
+I am a passionate developer and technology enthusiast dedicated to creating innovative solutions. My code is a way for me to contribute to the world of technology and make it better. I continuously strive to expand my knowledge and skills. You will find projects related to web development and automation in my repository. Sharing my experience and learning about best practices in programming is important to me, and I welcome questions, suggestions, and potential collaboration. Feel free to contact me if you have any concerns or would like to work on a project together. I look forward to discussing ideas with you and working on something great. Let's collaborate and create something amazing!
 
 <p align="center">
  <img width="600" src="assets/gif/github-snake.svg" alt="snake"/>
